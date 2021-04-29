@@ -3,7 +3,7 @@
 # Why Dark Mode?
 Using Light mode at night may increase alertness and making you harder to fall asleep. Dark Mode aims to reduce the blue light and it will be beneficial.
 
-# Usage 
+# Installation
 - **Step 1** Download the Stylus Extension with the given link: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
 - **Step 2** Download the Second Extension with the given link: https://chrome.google.com/webstore/detail/notifs-for-meet/iinecemgdedknjoenecmgjlghnkmbofc
 - **Step 3** Open this link: chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html
