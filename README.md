@@ -7,7 +7,7 @@ Using Light mode at night may increase alertness and making you harder to fall a
 - **Step 1** Download the Stylus Extension with the given link: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
 - **Step 2** Download the Second Extension with the given link: https://chrome.google.com/webstore/detail/notifs-for-meet/iinecemgdedknjoenecmgjlghnkmbofc
 - **Step 3** Open this link: chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html
-- **Step 4** Click on Write a New Style and paste the css. https://pastebin.com/4nTzbnUv
+- **Step 4** Click on Write a New Style and paste the css from the link: https://pastebin.com/raw/4nTzbnUv
 - **Step 5** Save it
 - **Step 6** Open the Second Extension and enable Dark Mode, Referesh Google Meet.
 **That's it Enjoy**
