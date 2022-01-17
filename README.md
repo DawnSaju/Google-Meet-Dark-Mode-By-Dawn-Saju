@@ -13,4 +13,4 @@ Using Light mode at night may increase alertness and making you harder to fall a
 **That's it Enjoy**
 
 # Contributers
-- Dawn Saju <a href="https://github.com/dawntom2006">dawntom2006</a>
+- Dawn Saju <a href="https://github.com/dawnpro7">dawnpro7</a>
